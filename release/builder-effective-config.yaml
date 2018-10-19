@@ -1,0 +1,31 @@
+directories:
+  output: release
+  buildResources: resources
+productName: Tiberium
+appId: com.opensecurity.Tiberium
+files:
+  - dist/
+  - node_modules/
+  - app.html
+  - main.prod.js
+  - main.prod.js.map
+  - img/logo.png
+  - tiberium.ps1
+  - package.json
+dmg:
+  contents:
+    - x: 130
+      'y': 220
+    - x: 410
+      'y': 220
+      type: link
+      path: /Applications
+win:
+  target:
+    - nsis
+linux:
+  target:
+    - deb
+    - AppImage
+  category: Information Security
+electronVersion: 2.0.8

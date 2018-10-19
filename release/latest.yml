@@ -1,0 +1,8 @@
+version: 1.0.0
+files:
+  - url: Tiberium-Setup-1.0.0.exe
+    sha512: Dv5Egh/TLJyEAwZGLByQbuelfC+3iwmilXmlkIsS0lAPs1Y1vr7Q7cThYkzH92RemfCN+g1BPauxbIfnZAxp8g==
+    size: 38837704
+path: Tiberium-Setup-1.0.0.exe
+sha512: Dv5Egh/TLJyEAwZGLByQbuelfC+3iwmilXmlkIsS0lAPs1Y1vr7Q7cThYkzH92RemfCN+g1BPauxbIfnZAxp8g==
+releaseDate: '2018-09-21T18:43:30.462Z'
